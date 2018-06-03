@@ -1,6 +1,6 @@
 # 國軍日記
 
-<img src="https://user-images.githubusercontent.com/7057863/40884275-363cf80a-6743-11e8-83e3-1dabf5c11287.png" alt="drawing" style="width: 150px;"/>
+<img src="https://user-images.githubusercontent.com/7057863/40884275-363cf80a-6743-11e8-83e3-1dabf5c11287.png" width="150">
 
 身為一個在中華民國誕生的男子漢, 我們出生時便背負了從軍的義務. 老實說,小時候覺得當兵挺有趣,畢竟從小看著例如<報告班長>或<新兵日記>之類的搞笑連續劇長大, 又常常聽爸爸與叔叔們口沫橫飛地描述自己當年在軍中遇到的各種怪力亂神.
 當然, 自己當兵的時候遇到怪力亂神就不有趣了 ...
